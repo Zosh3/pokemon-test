@@ -1,6 +1,6 @@
 # Cyndaquil 
 
-![Alt text]([https://www.google.com/search?sca_esv=e6a856e083a4051b&sxsrf=AE3TifPwg-VIzii76OCeRkCYGve5qzpZFg:1753633269342&q=cyndaquil&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zENyQuF3_WaPI4Qgb6AZzy-etFjo9fqZ_m1LmwOk0Tw7Ns_0OocK1BNAsSvkZGRaIDBJ5_VC5GjNWHeLLVc9aY1YFxSVAnbKv87ntDKOTQ-__6ux0fJ1zJWSCXtmTj5zAXKhQz_O8AXaIHbB8YUV2X_-uCtuHA&sa=X&ved=2ahUKEwjXnNeAud2OAxU5YEEAHc3ZBlcQtKgLKAF6BAgjEAE&biw=1528&bih=738&dpr=1.25#vhid=4bf5V8czNvroKM&vssid=mosaic](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/155.png))
+!(https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/155.png)
 
 
 Cyndaquil is the fire type starter for the Johto region, debuting in Generation 2. Cyndaquil is also the starter in Legends: Arceus and its final evolution, Typhlosion, has a fire/ghost regional form available in the game.  
