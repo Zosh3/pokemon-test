@@ -50,3 +50,5 @@ Games where you need to trade Cyndaquil from another game: Pokemon Ruby, Sapphir
 
 Cyndaquil is not available in Pokemon Let’s go Pikachu and Eevee and Pokemon Sword and Shield. Cyndaquil is not available in any game prior to Pokemon Gold and Silver.  
 
+[Home](index.md)
+
