@@ -28,15 +28,19 @@ Cyndaquil’s name is derived from “cinder” (a small piece of burnt wood/coa
 
 ## Important facts 
 
-National Pokedex number: 0155 
-Type: Fire 
-Species: The fire mouse Pokémon 
-Ability: Blaze 
-Hidden ability: Flash fire 
-Height: 0.5 meters 
-Weight: 7.9 kg 
-Catch rate: 45 (5.9% with a poke ball at full HP) 
-Gender ratio: 87.5% male, 12.5% female 
+## Important facts
+
+| Fact                    | Value                                             |
+|-------------------------|---------------------------------------------------|
+| National Pokedex number | 0155                                              |
+| Type                    | Fire                                              |
+| Species                 | The fire mouse Pokémon                            |
+| Ability                 | Blaze                                             |
+| Hidden ability          | Flash fire                                        |
+| Height                  | 0.5 meters                                        |
+| Weight                  | 7.9 kg                                            |
+| Catch rate              | 45 (5.9% with a poke ball at full HP)             |
+| Gender ratio            | 87.5% male, 12.5% female                          |
 
 ## Where to get Cyndaquil 
 
