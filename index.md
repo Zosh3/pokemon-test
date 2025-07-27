@@ -28,8 +28,6 @@ Cyndaquil’s name is derived from “cinder” (a small piece of burnt wood/coa
 
 ## Important facts 
 
-## Important facts
-
 | Fact                    | Value                                             |
 |-------------------------|---------------------------------------------------|
 | National Pokedex number | 0155                                              |
