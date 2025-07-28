@@ -1,7 +1,7 @@
 title: Pokemon dictionary
 description: Gives information about pokemon
 theme: minima
-header-pages: 
+header_pages: 
   - eevee.md
 
 # remote_theme: pages-themes/time-machine@v0.2.0
