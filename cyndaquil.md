@@ -1,4 +1,6 @@
-# Cyndaquil 
+---
+title: Cyndaquil
+---
 
 ![Cyndaquil pokemon picture](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/155.png)
 
