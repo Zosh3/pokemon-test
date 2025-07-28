@@ -1,4 +1,8 @@
-# List of pokemon 
+---
+title: Pokemon List
+---
+
+
 
 Here are the list of pokemon. 
 

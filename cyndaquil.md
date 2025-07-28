@@ -1,6 +1,6 @@
 # Cyndaquil 
 
-!(images/https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/155.png)
+![Cyndaquil pokemon picture](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/155.png)
 
 
 Cyndaquil is the fire type starter for the Johto region, debuting in Generation 2. Cyndaquil is also the starter in Legends: Arceus and its final evolution, Typhlosion, has a fire/ghost regional form available in the game.  
@@ -53,5 +53,5 @@ Games where you need to trade Cyndaquil from another game: Pokemon Ruby, Sapphir
 
 Cyndaquil is not available in Pokemon Let’s go Pikachu and Eevee and Pokemon Sword and Shield. Cyndaquil is not available in any game prior to Pokemon Gold and Silver.  
 
-[Home](index.md)
+
 
